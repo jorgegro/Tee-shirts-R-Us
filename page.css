@@ -1,0 +1,40 @@
+.line {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    background-color: red;
+}
+i {
+    cursor: pointer;
+}
+h2 {
+    font-family: 'Arbutus Slab', serif;
+}
+bodyFont{
+   font-family: 'Abhaya Libre', serif;
+}
+.navFont{
+   font-family: 'Trocchi', serif;
+}
+.button {
+    background-color: black;
+    float: auto;
+}
+/* .left {
+    margin-right: 80%;
+}
+.right {
+    margin-left: 80%;
+} */
+
+.red-style {
+    width: 100%;
+    /* border: 10px solid red; */
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.checkList{
+    float: right;
+}
