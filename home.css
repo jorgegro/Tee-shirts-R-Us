@@ -1,0 +1,13 @@
+bodyFont{
+   font-family: 'Abhaya Libre', serif;
+}
+.navFont{
+   font-family: 'Trocchi', serif;
+}
+.jumbotron {
+    background: url("https://startupbizglobal.com/wp-content/uploads/wholesale-tshirts.jpg") no-repeat center center;
+    -webkit-background-size: 100% 100%;
+    -moz-background-size: 100% 100%;
+    -o-background-size: 100% 100%;
+    background-size: 100% 100%;
+}
